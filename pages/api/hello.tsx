@@ -11,7 +11,6 @@
 // ) {
 //   res.status(200).json({ name: 'John Doe' })
 // }
-import React from 'react';
 
 export const hello = () => {
 	return <div>hello</div>;
